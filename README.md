@@ -11,7 +11,7 @@ Be aware, this app uses the following packages:
 
 To use App Center Push on your app, you just need to add the Microsoft.AppCenter.Push package, 
 
-[Added App Center Package] (https://github.com/willbuildapps/app-center-with-xamarin/commit/08da7f308f19db0e121ecff6725f5e1003833fac)
+[Added App Center Package](https://github.com/willbuildapps/app-center-with-xamarin/commit/08da7f308f19db0e121ecff6725f5e1003833fac)
 
 #### Android implementation
 
