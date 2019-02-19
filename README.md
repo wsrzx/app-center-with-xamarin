@@ -1,3 +1,4 @@
+🐱‍🐉 This is a work in progress...
 # A sample app demonstrating the usage of app center features with xamarin forms.
 
 Be aware, this app uses the following packages:
@@ -9,3 +10,5 @@ Be aware, this app uses the following packages:
 👉 Attention
 
 For you to be able to receive a push notification on Android, you had to follow these steps https://docs.microsoft.com/en-us/appcenter/sdk/push/xamarin-android#prerequisites 
+
+
