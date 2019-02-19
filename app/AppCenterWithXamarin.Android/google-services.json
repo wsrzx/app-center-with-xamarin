@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597216971066",
+    "firebase_url": "https://app-center-with-xamarin.firebaseio.com",
+    "project_id": "app-center-with-xamarin",
+    "storage_bucket": "app-center-with-xamarin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597216971066:android:e7e1822db582ede1",
+        "android_client_info": {
+          "package_name": "com.companyname.AppCenterWithXamarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597216971066-1jvs80mfjdnhj9lmj9l8ehie0eedcscv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIoYVsGd56wpXRNY07cjcCzjz8y04umI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
