@@ -20,7 +20,8 @@ namespace AppCenterWithXamarin
             // Handle when your app starts
             
             // Opt in to use App Center
-            AppCenter.Start("68ed09c9-f35a-4e42-b551-7df04cccd11f", typeof(Push));
+            AppCenter.Start($"ios={AppConstants.APPCENTER_IOS_KEY};android={AppConstants.APPCENTER_ANDROID_KEY}", 
+                typeof(Push));
         }
 
         protected override void OnSleep()
